@@ -21,6 +21,15 @@ main {
   background-color: #020d18;
 }
 
+nav {
+  background-color: transparent;
+  margin-top: -70px;
+}
+
+footer {
+  background-color:#0f1c27;
+}
+
 
 /* ================== */
 /*   movie-container  */
@@ -74,8 +83,4 @@ main {
 .movie-info .overview {
   text-align:left;
   padding: 0 0.2rem;
-}
-
-footer {
-  background-color:#0f1c27;
 }
